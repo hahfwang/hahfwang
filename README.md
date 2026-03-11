@@ -5,13 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+hahgwang....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
 <br>
 <p align="center">
   Hi, I'm hahfwang, I am from China.
@@ -23,18 +16,6 @@
   <br>
   📫 How to reach me: <a href=""></a>
 </p>
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <span >
-	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-  </span>
-</p>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -54,8 +35,6 @@
     </a>
   </div>
   <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
@@ -80,9 +59,6 @@
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hahfwang&theme=xcode" />
-</div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hahfwang" />
 </div>
